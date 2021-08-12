@@ -1,2 +1,2 @@
-# -PredictingCustomerChurn
+# PredictingCustomerChurn
 predicting a customer churn 
